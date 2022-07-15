@@ -1,0 +1,595 @@
+a {
+    text-decoration: none;
+}
+
+.saisyo1 {
+    background-image: url("img/top.JPG");
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    object-position: center center;
+}
+
+.saisyo1 img {
+    width: 20%;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+.nibannme1 h2 {
+    background: linear-gradient(transparent 60%, rgb(118, 152, 219) 60%);
+    width: 65%;
+    margin-top: 60px;
+    margin-left: 30px;
+
+}
+
+.nibannme2 {
+    height: 900px;
+    position: relative;
+    width: 100%;
+}
+
+.nibannme3 {
+    background-image: url("img/mizu.JPG");
+    background-size: cover;
+    height: 400px;
+    width: 65%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 10%;
+    font-weight: bold;
+}
+
+.nibannme3 p {
+    color: rgb(50, 95, 83);
+}
+
+.nibannme4 {
+    width: 100%;
+    position: absolute;
+    top: 30%;
+    right: 0;
+    text-align: right;
+
+
+}
+
+.nibannme4 img {
+    width: 70%;
+
+
+}
+
+.nibannme5 {
+    position: absolute;
+    top: 100px;
+    right: 200px;
+    font-size: 50px;
+    color: rgba(148, 182, 200, 0.477);
+}
+
+.nibannme6 {
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    font-size: 20px;
+
+}
+
+.betauti {
+    margin: 60px;
+}
+
+
+.syasinn {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 40px;
+    border-top: 5px solid navy;
+    border-bottom: 5px solid navy;
+}
+
+.syasinn1,
+.syasinn2,
+.syasinn3,
+.syasinn4 {
+    width: 45%;
+    padding: 0;
+    margin: 0;
+
+}
+
+.ryoukinn h2 {
+
+    background: linear-gradient(transparent 60%, rgb(106, 141, 211) 60%);
+    width: -65%;
+    margin-top: 60px;
+    text-align: right;
+
+
+
+}
+
+.ryoukinn {
+    text-align: right;
+    width: 70%;
+    margin-left: auto;
+
+}
+
+.ryoukinn1 p {
+    font-size: 50px;
+    color: rgba(79, 42, 165, 0.498);
+}
+
+.ryoukinn2 {
+    width: 100%;
+    height: 800px;
+    position: relative;
+
+}
+
+.ryoukinn3 {
+    background-image: url("img/mizu.jpg");
+    background-size: cover;
+    height: 500px;
+    width: 70%;
+    padding: 50px;
+    position: absolute;
+    top: 10%;
+    left: 0;
+    box-sizing: border-box;
+}
+
+.ryoukinn3 p {
+    color: rgb(35, 113, 108)
+}
+
+.ryoukinn5 {
+    width: 50%;
+    position: absolute;
+    bottom: 10%;
+    right: 0;
+}
+
+.ryoukinn5 img {
+
+    width: 100%;
+
+
+
+}
+
+.ryoukinn4 {
+    text-decoration: underline;
+}
+
+.ryoukinna {
+    position: absolute;
+    top: 0;
+    right: 20%;
+    z-index: 2;
+    font-size: 50px;
+    color: rgb(50, 95, 83);
+
+}
+
+.vr {
+    margin: 0 auto;
+    border: 2px solid navy;
+    color: black;
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    width: 15%;
+    text-align: center;
+
+}
+
+.vr a {
+    margin: 0 auto;
+}
+
+.vr1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.vr2 {
+    width: 1000px;
+    height: 800px;
+    background-color: black;
+    margin: 0 auto;
+}
+
+.access1 {
+    text-align: center;
+    border-bottom: 2px solid blue;
+    font-size: 50px;
+    padding: 10px 100px;
+    margin: 0 150px;
+}
+
+
+
+
+.access3 {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+
+}
+
+.access4 {
+    width: 40%;
+    height: 400px;
+    border: 4px solid navy;
+    margin-left: 40px;
+}
+
+.access4 p {
+    padding-top: 30px;
+    padding-left: 5%;
+}
+
+.access5 {
+    background-color: black;
+    color: white;
+    width: 40%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0;
+}
+
+
+
+.access6 {
+    margin: 0 auto;
+    border: 2px solid navy;
+    color: black;
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    width: 30%;
+    display: block;
+    text-align: center;
+
+}
+
+.access6 a {
+    margin: 0 auto;
+}
+
+.contact {
+    text-align: center;
+    border-bottom: 2px solid blue;
+    font-size: 50px;
+    padding: 10px 100px;
+    margin: 0 150px;
+}
+
+.otoiawase1 {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+
+.otoiawase2 first-of-type {
+    margin-top: 20px;
+
+}
+
+.otoiawase3 {
+    margin-top: 20px;
+}
+
+.otoiawase3,
+.otoiawase4,
+.otoiawase5 {
+    width: 800px;
+    height: 40px;
+
+}
+
+textarea.otoiawase4 {
+    height: 100px;
+}
+
+.otoiawase6 {
+    width: 800px;
+    height: 50px;
+    border: 2px solid black;
+
+
+
+}
+
+.otoiawase7 {
+    background-color: rgb(27, 85, 70);
+    color: white;
+    width: 20%;
+    height: 50px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 50px;
+}
+
+.otoiawase8 {
+    color: white;
+    margin: 0 auto;
+
+}
+
+.otoiawase {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.footer {
+
+    background-color: rgb(21, 155, 222);
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+
+@media screen and (max-width:800px) {
+
+    .saisyo1 {
+        background-position: center center;
+    }
+
+    .saisyo1 img {
+        position: relative;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 50%;
+    }
+
+    .nibannme3 p {
+        font-size: 15px;
+    }
+
+    .nibannme6 {
+        font-size: 15px;
+        top: 90%;
+    }
+
+    .nibannme4 {
+        top: 50%;
+        bottom: 10px;
+    }
+
+    .betauti p {
+        margin-top: 50%;
+
+
+    }
+
+    .syasinn1,
+    .syasinn2,
+    .syasinn3,
+    .syasinn4 {
+        width: 50%;
+        padding: 0;
+        margin: 0;}
+
+        .nibannme1 h2 {
+            font-size: 40px;
+            margin-left: 0;
+        }
+
+        .nibannme3 p {
+            font-size: 20px;
+
+        }
+
+        .nibannme3 {
+            width: 90%;
+
+        }
+
+        .nibannme5 {
+            position: absolute;
+            top: 2px;
+            right: 20px;
+
+        }
+
+        .ryoukinn h2 {
+            font-size: 50px;
+        }
+
+        .syasinn {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            border: none;
+
+        }
+
+
+        .ryoukinna {
+            font-size: 40px;
+            text-align: left;
+            padding-left: 0;
+            margin-left: 0;
+            margin-bottom: 0;
+        }
+
+        .ryoukinn3 {
+            width: 100%;
+        }
+
+
+
+
+        .ryoukinna {
+            top: 38%;
+            left: 0;
+        }
+
+        .ryoukinn2 {
+            position: relative;
+            height: 1000px;
+            bottom: 0;
+
+
+
+        }
+
+        .ryoukinn3 {
+            top: 43%;
+            bottom: 0;
+
+        }
+
+        .ryoukinn4 {
+            margin-top: 100px;
+            bottom: 0;
+        }
+
+        .ryoukinn5 {
+            width: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+
+
+
+
+        .vr {
+            margin: 0 auto;
+            top: 0;
+            border: 2px solid navy;
+            color: black;
+            padding-top: 0;
+            padding-left: 0;
+            padding-right: 0;
+            width: 25%;
+            text-align: center;
+            margin-top: 30%;
+
+        }
+
+        .vr a {
+            top: 200px;
+
+        }
+
+        .vr2 {
+            width: 100%;
+        }
+
+
+        .ryoukinn h2 {
+            text-align: left;
+            font-size: 25px;
+        }
+
+        .ryoukinn {
+            text-align: left;
+            width: 70%;
+            margin-left: 0;
+
+        }
+
+        .ryoukinn1 p {
+            text-align: right;
+            font-size: 25px;
+        }
+
+        .ryoukinna {
+            font-size: 25px;
+        }
+
+        .access3 {
+            display: flex;
+            flex-direction: column-reverse;
+            justify-content: center;
+            align-items: center;
+
+
+        }
+
+
+
+        .access4 {
+            width: 100%;
+            margin-top: 30px;
+            margin-left: 0;
+        }
+
+
+    }
+
+    .access5 {
+        width: 100%;
+        margin-right: 0;
+        padding-right: 0;
+    }
+
+
+    .otoiawase1 {
+        display: flex;
+        flex-direction: column;
+
+
+    }
+
+    .otoiawase1 input {
+        width: 100%;
+    }
+
+    .otoiawase1 textarea {
+        width: 100%;
+    }
+
+    .otoiawase7 {
+        width: 93%;
+    }
+
+    .access1 {
+        text-align: center;
+        border-bottom: 2px solid blue;
+        font-size: 50px;
+        padding: 0;
+        margin: 0;
+
+    }
+
+    .contact {
+        padding: 0;
+        margin: 0;
+    }
+
+    .ryoukinn3 {
+        height: 650px;
+
+    }
+
+    .nibannme1 h2 {
+        background: linear-gradient(transparent 60%, rgb(118, 152, 219) 60%);
+        width: 80%;
+        margin-top: 60px;
+        margin-left: 0;
+        font-size: 25px;
+
+    }
+
+
+}
